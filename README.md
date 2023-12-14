@@ -3,9 +3,9 @@
 
 | Project Name | Live Link | Code Link | Tech Used |
 | --------------| --------------| --------------|  --------------|
-| 2. Pokemon-Card | [Live Demo](https://pokemon-card-2.netlify.app) | Row 2, Col 3 | HTML, CSS   |
-| 3.Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |       |
-| 4. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |       |
+| 1. Pokemon-Card | [Live Demo](https://pokemon-card-2.netlify.app) |  | HTML, CSS   |
+| 2. Google Search Bar | [Live Demo](https://google-search-bar-page.netlify.app/) | []() | HTML, CSS |
+| 3. Transition Image | [Live Demo](https://transition-image.netlify.app/) | []() |  HTML, CSS     |
 | 5. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |           |
 | 6. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |                  |
 | 7. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |              |
