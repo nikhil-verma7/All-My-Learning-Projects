@@ -8,9 +8,6 @@
 | 3. Transition Image | [Live Demo](https://transition-image.netlify.app/) | [View Code]() |  HTML, CSS     |
 | 4. Hover to Unlock | [Live Demo](https://unlock-the-image.netlify.app/) |[View Code](https://github.com/nikhil-verma7/My-Full-Stack-Learning-Journey/blob/master/Week-8-RWD/Assignment/reveal/index.html)         | HTML, CSS |
 | 5. Youtube Button| [Live Demo](https://animation-button-2.netlify.app)| [View Code](https://github.com/nikhil-verma7/My-Full-Stack-Learning-Journey/blob/master/Week-8-RWD/Assignment/Button-animation/index.html)|  HTML, CSS                |
-| 7. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |              |
-| 8. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |                  |
-| 9. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |               |
-| 10. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3                |
-| 11. Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |             |
+| 6. Login Page |[Live demo](https://my-fullstack-learnings-o9le-inalnaetj-nikhils-projects-0ecd6c7a.vercel.app/) | [View Code](https://github.com/nikhil-verma7/My-Fullstack-Learnings/blob/main/Week-11-Advanced-tailwind/Learning/dist/index.html)|HTML, CSS             |
+
 
